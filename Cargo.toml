@@ -11,3 +11,6 @@ tokio = { version = "1", features = ["rt-multi-thread", "macros"] }
 dotenv = "0.15.0"
 tokio-postgres = "0.7.12"
 anyhow = "1.0.95"
+reqwest = "0.12.12"
+rss = "2.0.11"
+atom_syndication = "0.12.6"
